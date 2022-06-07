@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE ListaVentas SYSTEM "listaVentas.dtd">
+<ListaVentas>
+    <venta>
+        <importe>Tela fina</importe>
+        <comprador>Cristian</comprador>
+        <vendedor>Lucas Restrepo</vendedor>
+        <fecha>2022-10-09</fecha>
+        <CodFactura>100DC63599315</CodFactura>
+    </venta>
+
+    <venta>
+        <importe>Gaseous de MX</importe>
+        <comprador>Josefina</comprador>
+        <vendedor>Karol</vendedor>
+        <CodFactura>D159566C965E</CodFactura>
+    </venta>
+</ListaVentas>
